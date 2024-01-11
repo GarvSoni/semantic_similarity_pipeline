@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: Semantic-Sentance-Similarity
-Version: 0.0.1
-Author: Garv
-Author-email: soni.garv719@gmail.com
-Requires-Dist: flask
-Requires-Dist: scikit-learn
-Requires-Dist: transformers
-Requires-Dist: nltk
